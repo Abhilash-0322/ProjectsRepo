@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x86",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerArgs": [
+                ""
+            ],
+            "compileCommands": "${workspaceFolder}/build-qtproject-Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc_clangd/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
