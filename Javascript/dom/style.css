@@ -1,0 +1,21 @@
+body{
+    color: aqua;
+    background-color: blueviolet;
+}
+h1{
+    color:chartreuse;
+}
+.box{
+height: 100px;
+width: 100px;
+border: 1px solid black;
+color: pink;
+background-color: aquamarine;
+text-align: center;
+}
+#para1{
+   text-align: center; 
+}
+.newClass{
+    background-color: aliceblue;
+}
